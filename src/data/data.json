@@ -1,0 +1,33 @@
+[
+    {
+        "img":"3.jpg",
+        "name":"Kaos Pressure",
+        "description": "Shirt - Black",
+        "stock": 5,
+        "color": "hitam",
+        "size":"xl",
+        "price":17,
+        "count":1
+    },
+    {
+        "img":"1.jpg",
+        "name":"Kaos Naruto",
+        "description": "Shirt - Blue",
+        "stock": 2,
+        "color": "biru muda",
+        "size":"m",
+        "price":20,
+        "count":0
+    },
+    {
+        "img":"2.jpg",
+        "description": "Sweater - Pink",
+        "name":"Sweet milk sweater",
+        "stock": 3,
+        "color": "merah muda",
+        "size":"s",
+        "price":15,
+        "count":2
+
+    }
+]
